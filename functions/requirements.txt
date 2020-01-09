@@ -1,0 +1,2 @@
+google-cloud-error-reporting==0.32.1
+google-cloud-datastore==1.10.0
